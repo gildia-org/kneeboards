@@ -8,7 +8,7 @@
 * Pobieramy kod źródłowy ostatniego wydania
 
 ### Dodawanie do DCS World
-TBD
+Rozpakowujemy pobraną paczkę i jej zawartość umieszczamy w katalogu C:\Users\[_nazwa uzytkownika_]\Saved Games\[_katalog zapisow gry DCS-a_]\Kneeboard
 
 ### Współtworzenie
 Tworzymy pull request do gałęzi _master_. W razie pytań, wątpliwości, problemów prosimy o kontakt z zespołem R&D (https://forum.gildia.org/memberlist.php?mode=team).
